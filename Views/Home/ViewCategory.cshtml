@@ -1,0 +1,9 @@
+@using Assignment_Products__and_Categories.Models
+@model MyViewModelCategory
+<div class="text-center">
+    @await Html.PartialAsync("_NameCategory", @Model.Category)
+</div>
+<div class="d-flex">
+    @* <div>@await Html.PartialAsync("_ForeachNameCategories", @Model.ModelListProduct)</div> *@
+
+</div>

@@ -1,0 +1,10 @@
+﻿@using Assignment_Products__and_Categories.Models
+@model ProductView
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="d-flex">
+    <div class="text-center">@await Html.PartialAsync("_FormularioProduct", @Model.Product)</div>
+    <div class="text-center">@await Html.PartialAsync("_ForeachNameProduct", @Model.Products)</div>
+</div>

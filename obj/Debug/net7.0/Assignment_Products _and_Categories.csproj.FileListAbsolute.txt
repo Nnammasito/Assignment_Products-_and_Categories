@@ -1,0 +1,39 @@
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\bin\Debug\net7.0\appsettings.Development.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\bin\Debug\net7.0\appsettings.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\bin\Debug\net7.0\Assignment_Products _and_Categories.staticwebassets.runtime.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\bin\Debug\net7.0\Assignment_Products _and_Categories.exe
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\bin\Debug\net7.0\Assignment_Products _and_Categories.deps.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\bin\Debug\net7.0\Assignment_Products _and_Categories.runtimeconfig.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\bin\Debug\net7.0\Assignment_Products _and_Categories.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\bin\Debug\net7.0\Assignment_Products _and_Categories.pdb
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\bin\Debug\net7.0\Humanizer.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\bin\Debug\net7.0\MySqlConnector.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\bin\Debug\net7.0\Pomelo.EntityFrameworkCore.MySql.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\obj\Debug\net7.0\Assignment_Products _and_Categories.csproj.AssemblyReference.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\obj\Debug\net7.0\Assignment_Products _and_Categories.GeneratedMSBuildEditorConfig.editorconfig
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\obj\Debug\net7.0\Assignment_Products _and_Categories.AssemblyInfoInputs.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\obj\Debug\net7.0\Assignment_Products _and_Categories.AssemblyInfo.cs
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\obj\Debug\net7.0\Assignment_Products _and_Categories.csproj.CoreCompileInputs.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\obj\Debug\net7.0\Assignment_Products _and_Categories.MvcApplicationPartsAssemblyInfo.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\obj\Debug\net7.0\Assignment_Products _and_Categories.RazorAssemblyInfo.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\obj\Debug\net7.0\Assignment_Products _and_Categories.RazorAssemblyInfo.cs
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\obj\Debug\net7.0\staticwebassets\msbuild.Assignment_Products _and_Categories.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\obj\Debug\net7.0\staticwebassets\msbuild.build.Assignment_Products _and_Categories.props
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Assignment_Products _and_Categories.props
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Assignment_Products _and_Categories.props
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\obj\Debug\net7.0\staticwebassets.pack.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\obj\Debug\net7.0\staticwebassets.build.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\obj\Debug\net7.0\staticwebassets.development.json
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\obj\Debug\net7.0\scopedcss\bundle\Assignment_Products _and_Categories.styles.css
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\obj\Debug\net7.0\scopedcss\projectbundle\Assignment_Products _and_Categories.bundle.scp.css
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\obj\Debug\net7.0\Assignment_Products _and_Categories.csproj.CopyComplete
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\obj\Debug\net7.0\Assignment_Products _and_Categories.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\obj\Debug\net7.0\refint\Assignment_Products _and_Categories.dll
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\obj\Debug\net7.0\Assignment_Products _and_Categories.pdb
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\obj\Debug\net7.0\Assignment_Products _and_Categories.genruntimeconfig.cache
+D:\Aprendiendo a programar\2. C# .NET Coding Dojo\ORM (Mapeo relación - Objeto)\Assignment_Products _and_Categories\obj\Debug\net7.0\ref\Assignment_Products _and_Categories.dll

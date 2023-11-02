@@ -1,0 +1,7 @@
+@using Assignment_Products__and_Categories.Models
+@model CategoryViewModel
+
+<div class="d-flex">
+    <div class="text-center">@await Html.PartialAsync("_FormularioCategory", @Model.Category)</div>
+    <div class="text-center">@await Html.PartialAsync("_ForeachCategory", @Model.Categories)</div>
+</div>

@@ -1,0 +1,12 @@
+@using Assignment_Products__and_Categories.Models
+@model List<Category>
+
+<div class="Columblock">
+    <p>All Categories</p>
+    <div class="listblock">
+        @foreach (Category result in @Model)
+        {
+            <p><a asp-action="ViewCategory" asp-controller="Home" asp-route-id="@result.CategoryId">@result.Name</a></p>
+        }
+    </div>
+</div>

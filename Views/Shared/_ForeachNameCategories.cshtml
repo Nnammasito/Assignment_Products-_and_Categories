@@ -1,0 +1,35 @@
+@using Assignment_Products__and_Categories.Models
+@model MyViewModel
+
+<h1>@Model.Product.Name</h1>
+<div class="midleblock">
+    <div class="Columblock">
+        <p>Categories</p>
+        <div class="listblock">
+            @foreach (Category result in @Model.Categories)
+            {
+                <p>@result.Name</p>
+            }
+        </div>
+    </div>
+    <div class="Columblock">
+        <form asp-action="AddCategory" asp-controller="Home" asp-route-id="@Model.Product.ProductId">
+            <div class="block blockcolum">
+                <label asp-for="@Model.CategoryID">Add Category</label>
+                <select asp-for="@Model.CategoryID">
+                    @foreach (Category result in @Model.Categories)
+                    {
+                        <option value="@result.">@result.Name</option>
+                    }
+                </select>
+            </div>
+            <div class="block">
+                <span asp-validation-for="@Model.CategoryID"></span>
+            </div>
+            <div class="block">
+                <button type="submit" class="btn1 btnend">Add</button>
+            </div>
+        </form>
+    </div>
+</div>
+</div>
